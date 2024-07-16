@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, AWS, R
 
 ## Education			        		
-- B.S., Data Science | Universitat Carlemany de Andorra (_March 2025_)
+B.S., Data Science | Universitat Carlemany de Andorra (_March 2025_)
 
 ## Projects
 ### EDA Top 100 Night Clubs 2024
