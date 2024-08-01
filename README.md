@@ -13,6 +13,8 @@ Utilized the **Top 100 Night Clubs 2024** dataset to perform an exploratory data
 
 ![Top 100 Night Clubs 2024](/assets/img/Top100NightClubs2024.png)
 
+
+
 ### Banking Marketing Targets
 <a href="https://nbviewer.org/github/Paulitos/DataSciencePortfolio_paulos/blob/main/Projects/Banking_Dataset_Marketing_Targets/BankingDataset_MarketingTargets_SQLPROJECT_PabloSanchezArias_aka_Paulos.ipynb" target="_blank" rel="noopener noreferrer">Publication</a>
 
