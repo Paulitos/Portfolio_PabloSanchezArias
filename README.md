@@ -22,5 +22,10 @@ Analyzed **marketing campaign** data from a Portuguese bank to identify effectiv
 
 ![Banking Marketing Targets](/assets/img/banking_dataset_marketing_targets.jpg)
 
+### Credit Card Fraud Detection with Machine Learning
+<a href="https://www.kaggle.com/code/paulitos/credit-card-fraud-prediction-scrum-method-pablo-sa" target="_blank" rel="noopener noreferrer">Publication</a>
 
+**Project Summary: Credit Card Fraud Detection**
+
+In this project, I developed a machine learning model to detect **fraudulent credit card transactions**. I used Python, leveraging libraries like **Pandas** for data preprocessing, **Scikit-learn** for model training, and **GridSearchCV** for hyperparameter tuning. A Random Forest classifier was selected and optimized, achieving a 99% precision, recall, and F1-score. This demonstrates the model's effectiveness in accurately identifying fraudulent transactions with minimal errors.
 
