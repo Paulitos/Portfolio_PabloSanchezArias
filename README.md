@@ -13,8 +13,6 @@ Utilized the **Top 100 Night Clubs 2024** dataset to perform an exploratory data
 
 ![Top 100 Night Clubs 2024](/assets/img/Top100NightClubs2024.png)
 
-
-
 ### Banking Marketing Targets
 <a href="https://nbviewer.org/github/Paulitos/DataSciencePortfolio_paulos/blob/main/Projects/Banking_Dataset_Marketing_Targets/BankingDataset_MarketingTargets_SQLPROJECT_PabloSanchezArias_aka_Paulos.ipynb" target="_blank" rel="noopener noreferrer">Publication</a>
 
@@ -29,3 +27,4 @@ Analyzed **marketing campaign** data from a Portuguese bank to identify effectiv
 
 In this project, I developed a machine learning model to detect **fraudulent credit card transactions**. I used Python, leveraging libraries like **Pandas** for data preprocessing, **Scikit-learn** for model training, and **GridSearchCV** for hyperparameter tuning. A Random Forest classifier was selected and optimized, achieving a 99% precision, recall, and F1-score. This demonstrates the model's effectiveness in accurately identifying fraudulent transactions with minimal errors.
 
+![Credit Card Fraud Detection](/assets/img/credit_card_fraud_image.jpeg)
