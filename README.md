@@ -26,3 +26,5 @@ Analyzed **marketing campaign** data from a Portuguese bank to identify effectiv
 In this project, I developed a machine learning model to detect **fraudulent credit card transactions**. I used Python, leveraging libraries like **Pandas** for data preprocessing, **Scikit-learn** for model training, and **GridSearchCV** for hyperparameter tuning. A Random Forest classifier was selected and optimized, achieving a 99% precision, recall, and F1-score. This demonstrates the model's effectiveness in accurately identifying fraudulent transactions with minimal errors.
 
 ![Credit Card Fraud Detection](/assets/img/credit_card_fraud_image.jpeg)
+
+For a COMPLETE list of projects visit [Projects Section](https://github.com/Paulitos/DataSciencePortfolio_paulos/tree/main/Projects)
