@@ -6,7 +6,7 @@ Source 3:
 
 Use of Software Development template from JIRA, team management. Use of the feature `Code` in the Development section to maintain a clear link between your code changes and the tasks on the Scrum board.
 
-![Development Section -> Code feature]()
+![](jira_use_of_code_development.png)
 
 **Pros of connecting Github to Jira**
 
