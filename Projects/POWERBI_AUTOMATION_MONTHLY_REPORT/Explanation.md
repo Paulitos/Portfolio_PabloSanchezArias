@@ -31,7 +31,8 @@ Key actions performed on the dataset:
 Before creating the KPIs and calculated columns in the main table:
 - **Calendar Table**: Added a new table named `Calendar` to support time-based analysis. Established a `* : 1` (many-to-one) relationship between `Executions` and `Calendar` tables.  
 
-(See attached images: `Many_to_one_relation.png` and `table_calendar.png`)
+[View Many-to-One Relationship Diagram](Many_to_one_relation.png)  
+[View Calendar Table Details](table_calendar.png)
 
 #### New Columns in Main Table:
 - **Executed Campaigns**
