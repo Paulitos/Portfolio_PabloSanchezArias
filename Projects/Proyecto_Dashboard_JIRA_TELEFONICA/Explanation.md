@@ -91,7 +91,7 @@ An insight gained during the creation of this report:
 
 | Incidents Dashboard                         | Requests Dashboard                        | Weekly Aggregation                   | Data Model                     |
 | ------------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------ |
-| ![Incidencias](./incidencias_resueltas.png) | ![Peticiones](./peticiones_resueltas.png) | ![Semanal](./agrupacion_semanal.png) | ![Modelo](./modelo_tablas.png) |
+| ![Incidencias](./incidencias_resueltas.jpg) | ![Peticiones](./peticiones_resueltas.jpg) | ![Semanal](./agrupacion_semanal.png) | ![Modelo](./modelo_tablas.png) |
 
 ---
 
