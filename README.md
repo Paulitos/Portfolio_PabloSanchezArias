@@ -1,30 +1,43 @@
-# Data Scientist
+# Pablo Sánchez Arias  
+**Data Scientist | Full Stack Engineer**  
+[LinkedIn](https://linkedin.com/in/paulitos) • [GitHub](https://github.com/Paulitos) • [Email](mailto:pablosanchezworkemail@gmail.com)  
 
-#### Technical Skills: Python, SQL, Excel, AWS, R
+---
 
-## Education			        		
-B.S., Data Science | Universitat Carlemany de Andorra (_March 2025_)
+## 👋 About Me  
+I am a Data Scientist and Full Stack Engineer with experience building **end-to-end data products** — from data pipelines and ML models to deployment-ready dashboards and SaaS platforms. I combine strong foundations in **data science, backend/frontend engineering, and cloud infrastructure** to deliver scalable, impactful solutions.
 
-## Projects
-### EDA Top 100 Night Clubs 2024
-<a href="https://nbviewer.jupyter.org/github/Paulitos/DataSciencePortfolio_paulos/blob/main/Projects/EDA_Top100Nightclubs/EDA_Top100Nightclubs_PabloSanchezArias.ipynb" target="_blank" rel="noopener noreferrer">Publication</a>
+---
 
-Utilized the **Top 100 Night Clubs 2024** dataset to perform an exploratory data analysis (EDA) using **Python**. This comprehensive analysis involved cleaning and processing the data, followed by detailed visualization and insights generation. Key findings include trends in club rankings, geographic distribution, and influential factors contributing to club popularity. This data-driven approach provides valuable insights for business owners to enhance their strategies and for the general public to understand the nightlife industry dynamics. The project showcases a robust methodology to derive actionable business intelligence from raw data.
+## ⚙️ Technical Skills  
 
-![Top 100 Night Clubs 2024](/assets/img/Top100NightClubs2024.png)
+- **Languages:** Python, SQL, TypeScript, C, R, Java  
+- **Frameworks:** React, Next.js, FastAPI  
+- **Developer Tools:** Git, Docker, Google Cloud Platform, Power BI  
+- **Concepts:** Machine Learning, Backend & Frontend Development, DevOps, CI/CD, Microservices, Infrastructure Engineering, Automation  
+- **Languages (spoken):** English (professional), Spanish (native)  
 
-### Banking Marketing Targets
-<a href="https://nbviewer.org/github/Paulitos/DataSciencePortfolio_paulos/blob/main/Projects/Banking_Dataset_Marketing_Targets/BankingDataset_MarketingTargets_SQLPROJECT_PabloSanchezArias_aka_Paulos.ipynb" target="_blank" rel="noopener noreferrer">Publication</a>
+---
 
-Analyzed **marketing campaign** data from a Portuguese bank to identify effective strategies for promoting term deposits. Conducted comprehensive data cleaning and processing, followed by **SQL**-based analysis and visualization. Key findings include the effectiveness of campaign sizes, customer segmentation by job and education level, and seasonal trends in campaign success. This project provides actionable insights to optimize future marketing efforts and improve customer targeting, showcasing a robust approach to deriving business intelligence from raw data.
+<!--## 📂 Projects  Tengo pendiente poner 3 proyectos open-source que haga que sean relevantes-->
 
-![Banking Marketing Targets](/assets/img/banking_dataset_marketing_targets.jpg)
+## 💼 Professional Experience  
 
-### Credit Card Fraud Detection with Machine Learning
-<a href="https://www.kaggle.com/code/paulitos/credit-card-fraud-prediction-scrum-method-pablo-sa" target="_blank" rel="noopener noreferrer">Publication</a>
+**NTT DATA — Business Process Analyst** *(Apr 2025 – Present)*  
+- Led the development of interactive **Power BI dashboards** for Red.es, monitoring KPIs for senior stakeholders.  
+- Optimized data models and queries, improving performance and integrity.  
+- Consolidated heterogeneous data sources into unified, reliable reports.  
 
-In this project, I developed a machine learning model to detect **fraudulent credit card transactions**. I used Python, leveraging libraries like **Pandas** for data preprocessing, **Scikit-learn** for model training, and **GridSearchCV** for hyperparameter tuning. A Random Forest classifier was selected and optimized, achieving a 99% precision, recall, and F1-score. This demonstrates the model's effectiveness in accurately identifying fraudulent transactions with minimal errors.
+**NTT DATA — Marketing Data Analyst Junior** *(May 2024 – Apr 2025)*  
+- Built a **Telefónica dashboard** from scratch and automated data refreshes.  
+- Analyzed Vodafone campaign data with Teradata SQL for SMS targeting.  
 
-![Credit Card Fraud Detection](/assets/img/credit_card_fraud_image.jpeg)
+**NTT DATA — Marketing Data Analyst Intern** *(Oct 2023 – May 2024)*  
+- Produced daily campaign reports with **Excel pivots + SQL + Python automation**.  
 
-For a COMPLETE list of projects visit [Projects Section](https://github.com/Paulitos/DataSciencePortfolio_paulos/tree/main/Projects)
+---
+
+## 🎓 Education  
+
+**B.S. in Data Science**  
+Universitat Carlemany de Andorra, 2020 – 2024
