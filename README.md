@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me  
+## 🏆 About Me  
 I am a Data Scientist and Full Stack Engineer with experience building **end-to-end data products** — from data pipelines and ML models to deployment-ready dashboards and SaaS platforms. I combine strong foundations in **data science, backend/frontend engineering, and cloud infrastructure** to deliver scalable, impactful solutions.
 
 ---
